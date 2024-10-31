@@ -9,7 +9,7 @@ git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 
 sudo pacman -S neovim nodejs npm ripgrep unzip
 
-sudo pacma -S nwg-look qt5ct pavucontrol
+sudo pacman -S nwg-look qt5ct pavucontrol
 
 sudo bash -c 'echo "QT_QPA_PLATFORMTHEME=qt5ct" >> /etc/environment'
 
